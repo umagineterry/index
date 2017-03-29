@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 107,
+    "uniqCompNum": 109,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -163,7 +163,8 @@
           "_styles": {
             ".mbr-section-title FONT": {
               "color": "#ffffff",
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "48px"
             },
             ".mbr-section-title": {
               "text-align": "right",
@@ -171,11 +172,14 @@
             },
             ".mbr-section-text FONT": {
               "text-align": "left"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
             }
           },
           "_anchor": "header2-g",
           "_params": {
-            "imageSize": "39",
+            "imageSize": "45",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/backgrounda-2.gif",
@@ -275,20 +279,20 @@
           },
           "_anchor": "features3-10",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/backgrounda-2.gif",
             "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#ffffff",
             "columns": "4",
             "showImages": true,
             "showTitles": true,
@@ -429,8 +433,8 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "images": [
               {
                 "tags": "Awesome",
@@ -673,7 +677,7 @@
                 "active": true
               }
             ],
-            "spacing": "1",
+            "spacing": "2",
             "showText": false,
             "filter": false,
             "bgColor": "#ffffff",
@@ -738,15 +742,25 @@
             },
             "DIV": {
               "font-size": "16px"
+            },
+            "UL": {
+              "text-align": "left",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "H1": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "16px"
             }
           },
           "_anchor": "content1-s",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<ul><li><b><span style=\"line-height: 1.5;\">OUR MISSION IS TO CREATE VALUE TO THE SOCIETY, AND POSSIBLY MAKE A DIFFERENCE.</span><br></b></li></ul><p></p><p></p><p></p><p></p><ul><li><b>UMAGINE IS A FIBERGLASS ENGINEERING FIRM WITH DECADES OF INDIVIDUAL EXPERIENCES IN THE CONSTRUCTION INDUSTRY. </b></li></ul>"
+          "text": "<h2></h2><h3></h3><h1><p></p><ul><li><b><span style=\"line-height: 1.5;\">OUR MISSION IS TO CREATE VALUE TO THE SOCIETY, AND POSSIBLY MAKE A DIFFERENCE.</span></b></li></ul><p></p></h1><p></p><p></p><p></p><p></p><ul><li><b>UMAGINE IS A FIBERGLASS ENGINEERING FIRM WITH DECADES OF INDIVIDUAL EXPERIENCES IN THE CONSTRUCTION INDUSTRY. </b></li></ul>"
         },
         {
           "_styles": {
