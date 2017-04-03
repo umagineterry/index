@@ -269,7 +269,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-1.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-1-2000x1148.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
