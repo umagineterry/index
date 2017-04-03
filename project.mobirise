@@ -293,12 +293,11 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-6k",
           "_params": {
+            "showMeta": false,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "Title with Solid Background Color",
           "meta": "By John Smith posted July 20, 2016",
@@ -306,7 +305,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-title, .mbr-section-subtitle {\n\ttext-align: center;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "header3-6k"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -314,30 +314,29 @@
             "Extension"
           ],
           "_name": "extFeatures7",
-          "_anchor": "extFeatures7-4j",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showTitle": false,
             "showSubtitle": false,
-            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showIcons": false
+            "showIcons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: normal;\">WHAT DO WE OFFER</span>",
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
@@ -691,7 +690,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);\n@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);\n@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\n.mbr-section-title {\n\ttext-align: center;\n\tcolor: #232323;\n\tfont-family: 'Source Sans Pro', sans-serif;\n}\n.mbr-section-subtitle {\n\tfont-family: 'Noto Sans', sans-serif;\n}\n.mbr-section-title SPAN {\n\tfont-family: 'Noto Sans', sans-serif;\n}\nH5 {\n\tfont-family: 'Open Sans', sans-serif;\n}\nH4 {\n\tfont-size: 19px;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "extFeatures7-4j"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -699,27 +699,26 @@
             "Extension"
           ],
           "_name": "extFeatures13",
-          "_anchor": "extFeatures13-6f",
           "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showDates": false,
             "iconsColor": "#666666",
             "blocks": "4",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgImageRadio": false,
             "bgImage": "file:///C:/Users/William/AppData/Local/Mobirise.com/Mobirise/projectData/img_extHeader14_bg.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#151515",
-            "showTitle": true,
-            "showSubtitle": false,
-            "showDates": false
+            "overlayOpacity": 0.5
           },
           "mainTitle": "TIMELINE BLOCK",
           "mainSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -888,7 +887,13 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".etl-icon {\n\tcolor: #666666;\n}\n.mbr-section-title {\n\tfont-size: 20px;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "extFeatures13-6f",
+          "_styles": {
+            ".etl-icon": {
+              "color": "#666666"
+            }
+          }
         },
         {
           "_inherit": "gallery1",
@@ -1198,9 +1203,9 @@
           "_customHTML": "<section class=\"mbr-section article\" style=\"background-color: rgb(250, 250, 250); padding-top: 0px; padding-bottom: 0px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"928\"><p><span style=\"color:#000000\"><span style=\"font-size:58px\">W</span><span style=\"font-size:38px\">HAT</span><span style=\"font-size:58px\"><span style=\"font-size:38px\"> </span></span><span style=\"font-size:58px\">D</span><span style=\"font-size:38px\">O</span> <span style=\"font-size:58px\">W</span><span style=\"font-size:38px\">E</span> <span style=\"font-size:58px\">O</span><span style=\"font-size:38px\">FFER?</span></span></p>\n\n</h3>\n                \n                \n            </div>\n        </div>\n    </div>\n\n</section>",
           "_customCSS": ".mbr-section-title, p {\n\tcolor: #a38f84;\n}\n.mbr-section-title {\n\tcolor: #a38f84;\n}\n",
           "_customTemplate": true,
-          "_anchor": "msg-box8-6o",
           "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_JSplaceholders": [],
+          "_anchor": "msg-box8-6o"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1267,12 +1272,11 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-6w",
           "_params": {
+            "showMeta": false,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "Title with Solid Background Color",
           "meta": "By John Smith posted July 20, 2016",
@@ -1280,7 +1284,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-title, .mbr-section-subtitle {\n\ttext-align: center;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "header3-6w"
         },
         {
           "_params": {
@@ -1363,10 +1368,10 @@
           "_name": "extForm3",
           "_customHTML": "<section class=\"mbr-section extForm3\" style=\"background-color: rgb(255, 255, 255); padding-top: 0px; padding-bottom: 0px;\">\n\n    \n\n    <div class=\"mbr-table\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"row\">\n                    <div class=\"mbr-table-md-up\">\n\n                        <div class=\"mbr-table mbr-valign-top col-md-6\">\n                            <div class=\"mbr-map\"><iframe frameborder=\"0\" style=\"border:0\" src=\"https://www.google.com/maps/embed/v1/place?key=AIzaSyA0Dx_boXQiwvdz8sJHoYeZNVTdoWONYkU&amp;q=place_id:ChIJQTYOSTv7AzQRgDOyv9o4JdY\" allowfullscreen=\"\"></iframe></div>\n                        </div>\n                        <div class=\"mbr-table-cell co3-md-1 text-md-left\">\n                                \n\n                                <div class=\"row\">\n                                <div class=\"col-md-12 parentInverse\">\n                                    <div class=\"col-md-12 col-lg-12 inverse-content\" style=\"padding-left: 15px;\">\n                                            <div class=\"intro-box right\">\n                                                <span class=\"iconBackground\"><span class=\"icon\"><span class=\"etl-icon icon-envelope mbr-iconfont-form1\" style=\"color: rgb(102, 102, 102);\"></span></span></span>\n                                                <div class=\"contentInverse\" style=\"padding-left: 15px;\">\n                                                    <h4 class=\"h-black text-right mbr-editable-content\" code-editable-id=\"943\">Don't hesitate to contact us</h4>\n                                                    \n                                                    <p class=\"mbr-section-text-gray lead h-black mbr-editable-content\" code-editable-id=\"944\">Phone: (+852) 2180 7321<br>FAX &nbsp; &nbsp;: (+852) 2180 7322<br> Email: info@umagine.hk<br>ADDRESS: UNIT 410, 4/F, BLK, B1, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, N.T., H.K.<br>地址: 屯門建泰街6號恆威工業中心B1座4樓410室<br></p>\n                                                </div>\n\n                                            </div>\n                                    </div>\n                                </div>\n                             </div>\n                                <div class=\"col-md-12\" style=\"padding-left: 0px; padding-right: 0px;\" data-form-type=\"formoid\">\n                                    <div data-form-alert=\"true\">\n                                        <div hidden=\"\" data-form-alert-success=\"true\" class=\"alert alert-form alert-success text-xs-center\">Thanks for filling out form!</div>\n                                    </div>\n                                    <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"UNTITLED FORM\">\n                                        <input type=\"hidden\" value=\"gCzDlJfbzV+8T2IHeZwieadgJx1iFB/lUsWOd2tL6uN/BvbXwQbr933ITTwaG+IxxHAgbjEItB2bUaA5JGCQhSNkumr74Haew5aUA2BUA4AcRCBtMByc9/M/9cEkUXPu\" data-form-email=\"true\">\n\n                                            <div class=\"col-xs-6\">\n                                                 <input type=\"text\" class=\"form-control\" name=\"name\" required=\"\" data-form-field=\"Name\" placeholder=\"Name*\">\n                                            </div>\n\n                                            <div class=\"col-xs-6\" style=\"padding-left: 15px\">\n                                                 <input type=\"text\" class=\"form-control\" name=\"phone\" required=\"\" data-form-field=\"Phone\" placeholder=\"Phone*\">\n                                            </div>\n\n                                            <div class=\"col-xs-12\">\n                                                 <input type=\"text\" class=\"form-control\" name=\"email\" required=\"\" data-form-field=\"Email\" placeholder=\"Email*\">\n                                            </div>\n\n                                            <div class=\"col-xs-12\">\n                                                <textarea class=\"form-control\" name=\"message\" rows=\"3\" data-form-field=\"Message\" style=\"resize:none\" placeholder=\"Message\"></textarea>\n                                            </div>\n                                        <div class=\"col-xs-12 buttons_wrap\" style=\"margin-top: 10px;\"><button type=\"submit\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"945\">SEND MESSAGE</button></div>\n                                    </form>\n\n                            </div>\n                        </div>\n\n                        <!-- & -->\n\n                        \n                        \n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n</section>",
           "_customTemplate": true,
-          "_anchor": "extForm3-6u",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": ""
+          "_customCSS": "",
+          "_anchor": "extForm3-6u"
         },
         {
           "_tags": [
@@ -3335,268 +3340,6 @@
             "overlayColor": "#ffffff"
           },
           "text": "Copyright (c) 2017 UMAGINE ENGINEERING LTD."
-        }
-      ]
-    },
-    "page3.html": {
-      "settings": {
-        "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
-      },
-      "components": [
-        {
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "footer1-6c",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/backgrounda-2.gif",
-            "bgColor": "#323232",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": "1",
-            "overlayColor": "#ffffff"
-          },
-          "text": "Copyright (c) 2017 UMAGINE ENGINEERING LTD."
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "15px"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000"
-            },
-            ".link": {
-              "font-size": "0.95rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#9c89ce!important"
-            },
-            ".innerEmail:hover, .innerPhone:hover": {
-              "color": "@primaryColor"
-            },
-            "SPAN": {
-              "color": "#000000",
-              "font-size": "17px"
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extMenu1",
-          "_anchor": "extMenu1-6d",
-          "_params": {
-            "bgColor": "#c1c1c1",
-            "socialButtons": "4",
-            "fontSize": "0.95",
-            "fontName": {},
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "media1": {
-            "iconFont": {
-              "class": "fa",
-              "linkInNewWindow": false,
-              "name": "phone",
-              "family": "FontAwesome",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#7c706b"
-            }
-          },
-          "phone": "(852)2180 7321",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "mail",
-              "family": "linecons",
-              "active": true,
-              "link": "info@umagine.com",
-              "size": 0,
-              "color": "#7c706b",
-              "newWindow": false
-            }
-          },
-          "email": "info@umagine.com",
-          "media3": {
-            "iconFont": {
-              "class": "",
-              "linkInNewWindow": false,
-              "name": "facebook",
-              "family": "socicon",
-              "active": true,
-              "link": "https://www.facebook.com",
-              "size": 0,
-              "color": "#ffffff",
-              "newWindow": false
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "class": "",
-              "linkInNewWindow": false,
-              "name": "googleplus",
-              "family": "socicon",
-              "active": true,
-              "link": "https://google.com",
-              "size": 0,
-              "color": "#ffffff",
-              "newWindow": false
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "class": "",
-              "linkInNewWindow": false,
-              "name": "phone-square",
-              "family": "FontAwesome",
-              "active": true,
-              "link": "https://whatsapp.com",
-              "size": 0,
-              "color": "#ffffff",
-              "newWindow": false
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "class": "",
-              "linkInNewWindow": false,
-              "name": "youtube",
-              "family": "socicon",
-              "active": true,
-              "link": "https://www.youture.com",
-              "size": 0,
-              "color": "#ffffff",
-              "newWindow": false
-            }
-          },
-          "media7": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "pinterest",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "media8": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "skype",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-143x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "www.umagine.hk",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"page2.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-4t\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures7-4j\" aria-expanded=\"false\">SERVICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-48\" aria-expanded=\"false\">PROTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ufarm.html\" aria-expanded=\"false\">EL PARASIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm3-4b\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_inherit": "header1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header5",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "left",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "SOLID COLOR INTRO",
-          "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-section-with-arrow\" style=\"background-color: rgb(239, 239, 239);\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"mbr-section col-md-10\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"26\">SOLID COLOR INTRO</h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"27\">Full screen intro with color background.<br>Buttons, text and title are aligned to the left.</p>\n                    <div class=\"mbr-section-btn\"><a class=\"btn btn-lg btn-primary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"28\">DOWNLOAD NOW</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#next\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": ".mbr-section-title {\n\tcolor: #000;\n}\n.mbr-section-lead {\n\tcolor: #9c9a9a;\n}\n",
-          "_customTemplate": true,
-          "_anchor": "header5-6e"
         }
       ]
     }

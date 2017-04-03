@@ -778,6 +778,9 @@ h6,
 #extFeatures13-6f .etl-icon {
   color: #666666;
 }
+#extFeatures13-6f .etl-icon {
+  color: #666666;
+}
 #extFeatures13-6f .mbr-section-title {
   font-size: 20px;
 }
@@ -1020,83 +1023,4 @@ h6,
 }
 #footer1-11 P {
   color: #000000;
-}
-#footer1-6c P {
-  color: #000000;
-}
-#extMenu1-6d .hide-buttons .nav-btn {
-  display: none !important;
-}
-#extMenu1-6d .navbar-caption {
-  color: #ffffff;
-  font-size: 15px;
-}
-#extMenu1-6d .navbar-toggler {
-  color: #000000;
-}
-#extMenu1-6d .close-icon::before,
-#extMenu1-6d .close-icon::after {
-  background-color: #000000;
-}
-#extMenu1-6d .link,
-#extMenu1-6d .dropdown-item {
-  color: #000000;
-}
-#extMenu1-6d .link {
-  font-size: 0.95rem;
-}
-#extMenu1-6d .dropdown-item,
-#extMenu1-6d .nav-dropdown-sm .link {
-  font-size: 1.029rem;
-}
-#extMenu1-6d .link:hover,
-#extMenu1-6d .dropdown-item:hover,
-#extMenu1-6d .link:focus,
-#extMenu1-6d .dropdown-item:focus {
-  color: #9c89ce;
-}
-#extMenu1-6d .link[aria-expanded="true"],
-#extMenu1-6d .dropdown-menu {
-  background: #a8a8a8;
-}
-#extMenu1-6d .nav-dropdown-sm .link:focus,
-#extMenu1-6d .nav-dropdown-sm .link:hover,
-#extMenu1-6d .nav-dropdown-sm .dropdown-item:focus,
-#extMenu1-6d .nav-dropdown-sm .dropdown-item:hover {
-  background: #b9b9b9!important;
-}
-#extMenu1-6d .navbar,
-#extMenu1-6d .nav-dropdown-sm,
-#extMenu1-6d .nav-dropdown-sm .link[aria-expanded="true"],
-#extMenu1-6d .nav-dropdown-sm .dropdown-menu {
-  background: #c1c1c1;
-}
-#extMenu1-6d .bg-color.transparent .link {
-  color: #000000;
-  transition: none;
-}
-#extMenu1-6d .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#extMenu1-6d .bg-color.transparent.opened .link:hover,
-#extMenu1-6d .bg-color.transparent.opened .link:focus {
-  color: #9c89ce;
-}
-#extMenu1-6d .link[aria-expanded="true"],
-#extMenu1-6d .dropdown-item[aria-expanded="true"] {
-  color: #9c89ce!important;
-}
-#extMenu1-6d .innerEmail:hover,
-#extMenu1-6d .innerPhone:hover {
-  color: #9c89ce;
-}
-#extMenu1-6d SPAN {
-  color: #000000;
-  font-size: 17px;
-}
-#header5-6e .mbr-section-title {
-  color: #000;
-}
-#header5-6e .mbr-section-lead {
-  color: #9c9a9a;
 }
