@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 268,
+    "uniqCompNum": 269,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x114.png",
     "noImageResize": "",
@@ -207,12 +207,12 @@
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-7c",
+          "_anchor": "header2-7g",
           "_params": {
             "imageSize": 50,
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x1146.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/web.gif",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -249,7 +249,7 @@
           "title": "INTRO WITH IMAGE",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header2\" style=\"background-image: url(@PROJECT_PATH@/assets/images/dsc-2000x1146.png);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.1; background-color: rgb(255, 255, 255);\">\n    </div>\n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div class=\"mbr-table-md-up\">\n                        \n                        \n                        \n\n                        <div class=\"mbr-table-cell col-md-5 content-size text-xs-center text-md-LEFT\">\n\n                            \n\n                            <div class=\"mbr-section-text\">\n                               <p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n                    \n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:22px\"><span style=\"color:#800080\">A</span></span><span style=\"font-size:18px\"><span style=\"color:#800080\">N </span></span><span style=\"font-size:22px\"><span style=\"color:#800080\">I</span></span><span style=\"font-size:18px\"><span style=\"color:#800080\">NTRIGUING </span></span><span style=\"font-size:22px\"><span style=\"color:#800080\">W</span></span><span style=\"font-size:18px\"><span style=\"color:#800080\">INDOW </span></span><span style=\"font-size:22px\"><span style=\"color:#800080\">I</span></span><span style=\"font-size:18px\"><span style=\"color:#800080\">NTO </span></span><span style=\"font-size:22px\"><span style=\"color:#800080\">I</span></span><span style=\"font-size:18px\"><span style=\"color:#800080\">MAGINATION</span></span></p>\n                            </div>\n\n                            \n\n                        </div>\n                        <div class=\"mbr-table-cell mbr-valign-top mbr-left-padding-md-up col-md-7 image-size\" style=\"width: 50%;\">\n                            <div class=\"mbr-figure\"><img src=\"\"></div>\n                        </div>\n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating hidden-sm-down\" aria-hidden=\"true\"><a href=\"#header3-6k\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header2\" style=\"background-image: url(@PROJECT_PATH@/assets/images/web.gif);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.1; background-color: rgb(255, 255, 255);\">\n    </div>\n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div class=\"mbr-table-md-up\">\n                        \n                        \n                        \n\n                        <div class=\"mbr-table-cell col-md-5 content-size text-xs-center text-md-left\">\n\n                            \n\n                            <div class=\"mbr-section-text\">\n                                <p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n                    \n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:22px\"><span style=\"color:#000099\">A</span></span><span style=\"font-size:18px\"><span style=\"color:#000099\">N </span></span><span style=\"font-size:22px\"><span style=\"color:#000099\">I</span></span><span style=\"font-size:18px\"><span style=\"color:#000099\">NTRIGUING </span></span><span style=\"font-size:22px\"><span style=\"color:#000099\">W</span></span><span style=\"font-size:18px\"><span style=\"color:#000099\">INDOW </span></span><span style=\"font-size:22px\"><span style=\"color:#000099\">I</span></span><span style=\"font-size:18px\"><span style=\"color:#000099\">NTO </span></span><span style=\"font-size:22px\"><span style=\"color:#000099\">I</span></span><span style=\"font-size:18px\"><span style=\"color:#000099\">MAGINATION</span></span></p>\n                            </div>\n\n                            \n\n                        </div>\n                        <div class=\"mbr-table-cell mbr-valign-top mbr-left-padding-md-up col-md-7 image-size\" style=\"width: 50%;\">\n                            <div class=\"mbr-figure\"><img src=\"\"></div>\n                        </div>\n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating hidden-sm-down\" aria-hidden=\"true\"><a href=\"#header3-6k\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
