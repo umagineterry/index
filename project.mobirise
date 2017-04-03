@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 269,
+    "uniqCompNum": 270,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x114.png",
     "noImageResize": "",
@@ -68,20 +68,19 @@
             "Extension"
           ],
           "_name": "extMenu1",
-          "_anchor": "extMenu1-6z",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#ffffff",
             "socialButtons": "4",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": false,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "media1": {
             "iconFont": {
@@ -200,33 +199,33 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".hide-buttons .nav-btn {\n\tdisplay: none !important;\n}\n.navbar-caption {\n\tcolor: #ffffff;\n}\n.navbar-toggler {\n\tcolor: #000000;\n}\n.close-icon::before, .close-icon::after {\n\tbackground-color: #000000;\n}\n.link, .dropdown-item {\n\tcolor: #000000;\n}\n.link {\n\tfont-size: 0.8rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n\tfont-size: 0.866rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n\tcolor: \t#800080;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n\tbackground: #E209E2;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n\tbackground: #6469D1!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n\tbackground: #B0B3E8;\n}\n.bg-color.transparent .link {\n\tcolor: #000000;\n\ttransition: none;\n}\n.bg-color.transparent.opened .link {\n\ttransition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n\tcolor: #9c89ce;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n\tcolor: #9c89ce!important;\n}\n.innerEmail:hover, .innerPhone:hover {\n\tcolor: #9c89ce;\n}\nSPAN {\n\tcolor: #020203;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "extMenu1-6z"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-7g",
           "_params": {
-            "imageSize": 50,
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/web.gif",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.1",
-            "overlayColor": "#ffffff",
-            "inverse": false,
             "showTitle": false,
             "showText": true,
             "showButtons": false,
-            "showArrow": true
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/weba-2000x1146.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.2"
           },
           "media": {
             "image": {
@@ -249,11 +248,12 @@
           "title": "INTRO WITH IMAGE",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header2\" style=\"background-image: url(@PROJECT_PATH@/assets/images/web.gif);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.1; background-color: rgb(255, 255, 255);\">\n    </div>\n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div class=\"mbr-table-md-up\">\n                        \n                        \n                        \n\n                        <div class=\"mbr-table-cell col-md-5 content-size text-xs-center text-md-left\">\n\n                            \n\n                            <div class=\"mbr-section-text\">\n                                <p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n                    \n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:22px\"><span style=\"color:#000099\">A</span></span><span style=\"font-size:18px\"><span style=\"color:#000099\">N </span></span><span style=\"font-size:22px\"><span style=\"color:#000099\">I</span></span><span style=\"font-size:18px\"><span style=\"color:#000099\">NTRIGUING </span></span><span style=\"font-size:22px\"><span style=\"color:#000099\">W</span></span><span style=\"font-size:18px\"><span style=\"color:#000099\">INDOW </span></span><span style=\"font-size:22px\"><span style=\"color:#000099\">I</span></span><span style=\"font-size:18px\"><span style=\"color:#000099\">NTO </span></span><span style=\"font-size:22px\"><span style=\"color:#000099\">I</span></span><span style=\"font-size:18px\"><span style=\"color:#000099\">MAGINATION</span></span></p>\n                            </div>\n\n                            \n\n                        </div>\n                        <div class=\"mbr-table-cell mbr-valign-top mbr-left-padding-md-up col-md-7 image-size\" style=\"width: 50%;\">\n                            <div class=\"mbr-figure\"><img src=\"\"></div>\n                        </div>\n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating hidden-sm-down\" aria-hidden=\"true\"><a href=\"#header3-6k\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header2\" style=\"background-image: url(@PROJECT_PATH@/assets/images/weba-2000x1146.jpg);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.2; background-color: rgb(255, 255, 255);\">\n    </div>\n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div class=\"mbr-table-md-up\">\n                        \n                        \n                        \n\n                        <div class=\"mbr-table-cell col-md-5 content-size text-xs-center text-md-left\">\n\n                            \n\n                            <div class=\"mbr-section-text\">\n                                <p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n                    \n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:22px\"><span style=\"color:#000099\">A</span></span><span style=\"font-size:18px\"><span style=\"color:#000099\">N \n</span></span><span style=\"font-size:22px\"><span style=\"color:#000099\">I</span></span><span style=\"font-size:18px\"><span style=\"color:#000099\">NTRIGUING </span></span><span style=\"font-size:22px\"><span style=\"color:#000099\">W</span></span><span style=\"font-size:18px\"><span style=\"color:#000099\">INDOW </span></span><span style=\"font-size:22px\"><span style=\"color:#000099\">I</span></span><span style=\"font-size:18px\"><span style=\"color:#000099\">NTO </span></span><span style=\"font-\nsize:22px\"><span style=\"color:#000099\">I</span></span><span style=\"font-size:18px\"><span style=\"color:#000099\">MAGINATION</span></span></p>\n                            </div>\n\n                            \n\n                        </div>\n                        <div class=\"mbr-table-cell mbr-valign-top mbr-left-padding-md-up col-md-7 image-size\" style=\"width: 50%;\">\n                            \n                        </div>\n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating hidden-sm-down\" aria-hidden=\"true\"><a href=\"#header3-6k\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "header2-7h"
         },
         {
           "_tags": [
@@ -2299,7 +2299,6 @@
           "_JSplaceholders": [],
           "_customCSS": ".hide-buttons .nav-btn {\n\tdisplay: none !important;\n}\n.navbar-caption {\n\tcolor: #ffffff;\n\tfont-size: 15px;\n}\n.navbar-toggler {\n\tcolor: #000000;\n}\n.close-icon::before, .close-icon::after {\n\tbackground-color: #000000;\n}\n.link, .dropdown-item {\n\tcolor: #000000;\n}\n.link {\n\tfont-size: 0.95rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n\tfont-size: 1.029rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n\tcolor: #9c89ce;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n\tbackground: #a8a8a8;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n\tbackground: #b9b9b9!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n\tbackground: #c1c1c1;\n}\n.bg-color.transparent .link {\n\tcolor: #000000;\n\ttransition: none;\n}\n.bg-color.transparent.opened .link {\n\ttransition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n\tcolor: #9c89ce;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n\tcolor: #9c89ce!important;\n}\n.innerEmail:hover, .innerPhone:hover {\n\tcolor: #9c89ce;\n}\nSPAN {\n\tcolor: #000000;\n\tfont-size: 17px;\n}\n",
           "_customTemplate": true,
-          "_anchor": "extMenu1-3y",
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -2353,7 +2352,8 @@
             "SPAN": {
               "color": "#020203"
             }
-          }
+          },
+          "_anchor": "extMenu1-3y"
         },
         {
           "_tags": [
@@ -3600,26 +3600,25 @@
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-7b",
           "_params": {
-            "imageSize": 50,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": false
+            "inverse": false,
+            "showArrow": false,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
           },
           "media": {
             "image": {
@@ -3646,33 +3645,33 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "header2-7b"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-7d",
           "_params": {
-            "imageSize": 50,
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": true
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
           },
           "media": {
             "image": {
@@ -3699,7 +3698,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "header2-7d"
         }
       ]
     }
