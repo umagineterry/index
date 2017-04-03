@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 252,
+    "uniqCompNum": 268,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x114.png",
     "noImageResize": "",
@@ -196,40 +196,64 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-4t\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-6k\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-48\">PROTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ufarm.html\">EL PARAISO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm3-6u\" aria-expanded=\"true\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "_customHTML": "<section class=\"extMenu1\">\n    <nav class=\"navbar navbar-dropdown bg-color transparent\">\n        <div class=\"container-fluid\">\n            <div class=\"mbr-table top-menu\">\n                <div class=\"contacts\">\n                    <div class=\"phone\">\n                        <span class=\"icon\"><a href=\"https://mobirise.com\" class=\"fa fa-phone\" style=\"color: rgb(0, 0, 0);\"></a></span><span class=\"innerPhone mbr-editable-content\" code-editable-id=\"286\">(852)2180 7321</span>\n                    </div>\n                    <div class=\"mail\">\n                        <span class=\"icon\"><a href=\"https://mobirise.com\" class=\"li_mail mbr-iconfont\" style=\"color: rgb(0, 0, 0);\"></a></span><span class=\"innerEmail mbr-editable-content\" code-editable-id=\"287\">info@umagine.hk</span>\n                    </div>\n                </div>\n                <div class=\"social-block\">\n                    <span class=\"icon\" style=\"display: inline-block;\"><a href=\"https://mobirise.com\" class=\"socicon socicon-facebook\" style=\"color: rgb(255, 255, 255);\"></a></span>\n                    <span class=\"icon\" style=\"display: inline-block;\"><a href=\"https://mobirise.com\" class=\"fa fa-youtube-play\" style=\"color: rgb(255, 255, 255);\"></a></span>\n                    <span class=\"icon\" style=\"display: inline-block;\"><a href=\"https://mobirise.com\" class=\"socicon socicon-wechat\" style=\"color: rgb(255, 255, 255);\"></a></span>\n                    <span class=\"icon\" style=\"display: inline-block;\"><a href=\"https://mobirise.com\" class=\"socicon socicon-whatsapp\" style=\"color: rgb(255, 255, 255);\"></a></span>\n                    \n                    \n                </div>\n            </div>\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"https://mobirise.com\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/logo-143x128.png\" alt=\"Mobirise\"></a>\n                        \n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#msg-box8-4t\" code-editable-id=\"288\"><p><span style=\"font-size:18px\"><strong><span style=\"color:#0000CD\">A</span></strong></span><span style=\"color:#000000\"><span style=\"font-size:14px\"><strong>BOUT</strong></span></span></p>\n</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#header3-6k\" code-editable-id=\"289\"><p><span style=\"font-size:18px\"><strong><span style=\"color:#0000CD\">S</span></strong></span><span style=\"color:#000000\"><span style=\"font-size:14px\"><strong>ERVICES</strong></span></span></p>\n</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#gallery4-48\" code-editable-id=\"290\"><p><span style=\"font-size:18px\"><strong><span style=\"color:#0000CD\">P</span></strong></span><span style=\"color:#000000\"><span style=\"font-size:14px\"><strong>ROTFOLIO</strong></span></span></p>\n</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"ufarm.html\" code-editable-id=\"291\"><p><span style=\"font-size:18px\"><strong><span style=\"color:#0000CD\">E</span></strong></span><span style=\"color:#000000\"><span style=\"font-size:14px\"><strong>L</strong></span></span><span style=\"font-size:18px\"><strong><span style=\"color:#0000CD\"> P</span></strong></span><span style=\"color:#000000\"><span style=\"font-size:14px\"><strong>ARAISO</strong></span></span></p>\n</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#extForm3-6u\" aria-expanded=\"true\" code-editable-id=\"292\"><p><span style=\"font-size:18px\"><strong><span style=\"color:#0000CD\">C</span></strong></span><span style=\"font-size:14px\"><strong><span style=\"color:#000000\">ONTACT</span><span style=\"color:#0000CD\"> </span></strong></span><span style=\"font-size:18px\"><strong><span style=\"color:#0000CD\">U</span></strong></span><span style=\"color:#000000\"><span style=\"font-size:14px\"><strong>S</strong></span></span></p>\n</a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n                </div>\n            </div>\n        </div>\n    </nav>\n\n</section>",
+          "_customHTML": "<section class=\"extMenu1\">\n    <nav class=\"navbar navbar-dropdown bg-color transparent\">\n        <div class=\"container-fluid\">\n            <div class=\"mbr-table top-menu\">\n                <div class=\"contacts\">\n                    <div class=\"phone\">\n                        <span class=\"icon\"><a href=\"https://mobirise.com\" class=\"fa fa-phone\" style=\"color: rgb(0, 0, 0);\"></a></span><span class=\"innerPhone mbr-editable-content\" code-editable-id=\"412\">(852)2180 7321</span>\n                    </div>\n                    <div class=\"mail\">\n                        <span class=\"icon\"><a href=\"https://mobirise.com\" class=\"li_mail mbr-iconfont\" style=\"color: rgb(0, 0, 0);\"></a></span><span class=\"innerEmail mbr-editable-content\" code-editable-id=\"413\">info@umagine.hk</span>\n                    </div>\n                </div>\n                <div class=\"social-block\">\n                    <span class=\"icon\" style=\"display: inline-block;\"><a href=\"https://www.facebook.com/\" class=\"socicon socicon-facebook\" style=\"color: rgb(255, 255, 255);\"></a></span>\n                    <span class=\"icon\" style=\"display: inline-block;\"><a href=\"https://mobirise.com\" class=\"fa fa-youtube-play\" style=\"color: rgb(255, 255, 255);\"></a></span>\n                    <span class=\"icon\" style=\"display: inline-block;\"><a href=\"https://mobirise.com\" class=\"socicon socicon-wechat\" style=\"color: rgb(255, 255, 255);\"></a></span>\n                    <span class=\"icon\" style=\"display: inline-block;\"><a href=\"https://mobirise.com\" class=\"socicon socicon-whatsapp\" style=\"color: rgb(255, 255, 255);\"></a></span>\n                    \n                    \n                </div>\n            </div>\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        \n                        \n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#msg-box8-4t\" code-editable-id=\"414\"><p><span style=\"font-size:18px\"><strong><span style=\"color:\t#800080\">A</span></strong></span><span style=\"color:#000000\"><span style=\"font-size:14px\"><strong>BOUT</strong></span></span></p>\n</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#header3-6k\" code-editable-id=\"415\"><p><span style=\"font-size:18px\"><strong><span style=\"color:\t#800080\">S</span></strong></span><span style=\"color:#000000\"><span style=\"font-size:14px\"><strong>ERVICES</strong></span></span></p>\n</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#gallery4-48\" code-editable-id=\"416\"><p><span style=\"font-size:18px\"><strong><span style=\"color:\t#800080\">A</span></strong></span><span style=\"color:#000000\"><span style=\"font-size:14px\"><strong>LBUM</strong></span></span></p>\n</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"ufarm.html\" code-editable-id=\"417\"><p><span style=\"font-size:18px\"><strong><span style=\"color\t#800080\">E</span></strong></span><span style=\"color:#000000\"><span style=\"font-size:14px\"><strong>L</strong></span></span><span style=\"font-size:18px\"><strong><span style=\"color:\t#800080\"> P</span></strong></span><span style=\"color:#000000\"><span style=\"font-size:14px\"><strong>ARAISO</strong></span></span></p>\n</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#extForm3-6u\" aria-expanded=\"true\" code-editable-id=\"418\"><p><span style=\"font-size:18px\"><strong><span style=\"color:\t#800080\">C</span></strong></span><span style=\"font-size:14px\"><strong><span style=\"color:#000000\">ONTACT</span><span style=\"color:\t#800080\"> </span></strong></span><span style=\"font-size:18px\"><strong><span style=\"color:\t#800080\">U</span></strong></span><span style=\"color:#000000\"><span style=\"font-size:14px\"><strong>S</strong></span></span></p>\n</a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n                </div>\n            </div>\n        </div>\n    </nav>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": ".hide-buttons .nav-btn {\n\tdisplay: none !important;\n}\n.navbar-caption {\n\tcolor: #ffffff;\n}\n.navbar-toggler {\n\tcolor: #000000;\n}\n.close-icon::before, .close-icon::after {\n\tbackground-color: #000000;\n}\n.link, .dropdown-item {\n\tcolor: #000000;\n}\n.link {\n\tfont-size: 0.8rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n\tfont-size: 0.866rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n\tcolor: #9c89ce;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n\tbackground: #e6e6e6;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n\tbackground: #6469D1!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n\tbackground: #B0B3E8;\n}\n.bg-color.transparent .link {\n\tcolor: #000000;\n\ttransition: none;\n}\n.bg-color.transparent.opened .link {\n\ttransition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n\tcolor: #9c89ce;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n\tcolor: #9c89ce!important;\n}\n.innerEmail:hover, .innerPhone:hover {\n\tcolor: #9c89ce;\n}\nSPAN {\n\tcolor: #020203;\n}\n",
+          "_customCSS": ".hide-buttons .nav-btn {\n\tdisplay: none !important;\n}\n.navbar-caption {\n\tcolor: #ffffff;\n}\n.navbar-toggler {\n\tcolor: #000000;\n}\n.close-icon::before, .close-icon::after {\n\tbackground-color: #000000;\n}\n.link, .dropdown-item {\n\tcolor: #000000;\n}\n.link {\n\tfont-size: 0.8rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n\tfont-size: 0.866rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n\tcolor: \t#800080;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n\tbackground: #E209E2;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n\tbackground: #6469D1!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n\tbackground: #B0B3E8;\n}\n.bg-color.transparent .link {\n\tcolor: #000000;\n\ttransition: none;\n}\n.bg-color.transparent.opened .link {\n\ttransition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n\tcolor: #9c89ce;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n\tcolor: #9c89ce!important;\n}\n.innerEmail:hover, .innerPhone:hover {\n\tcolor: #9c89ce;\n}\nSPAN {\n\tcolor: #020203;\n}\n",
           "_customTemplate": true
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-6h",
+          "_name": "header2",
+          "_anchor": "header2-7c",
           "_params": {
-            "parallax": true,
+            "imageSize": 50,
+            "parallax": false,
             "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-1-2000x1148.jpg",
-            "bgColor": "#a07e49",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x1146.png",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#ffffff",
+            "inverse": false,
             "showTitle": false,
-            "showText": false,
-            "showButtons": false
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
           },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH IMAGE",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header2\" style=\"background-image: url(@PROJECT_PATH@/assets/images/dsc-2000x1146.png);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.1; background-color: rgb(255, 255, 255);\">\n    </div>\n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div class=\"mbr-table-md-up\">\n                        \n                        \n                        \n\n                        <div class=\"mbr-table-cell col-md-5 content-size text-xs-center text-md-LEFT\">\n\n                            \n\n                            <div class=\"mbr-section-text\">\n                               <p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n                    \n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:22px\"><span style=\"color:#800080\">A</span></span><span style=\"font-size:18px\"><span style=\"color:#800080\">N </span></span><span style=\"font-size:22px\"><span style=\"color:#800080\">I</span></span><span style=\"font-size:18px\"><span style=\"color:#800080\">NTRIGUING </span></span><span style=\"font-size:22px\"><span style=\"color:#800080\">W</span></span><span style=\"font-size:18px\"><span style=\"color:#800080\">INDOW </span></span><span style=\"font-size:22px\"><span style=\"color:#800080\">I</span></span><span style=\"font-size:18px\"><span style=\"color:#800080\">NTO </span></span><span style=\"font-size:22px\"><span style=\"color:#800080\">I</span></span><span style=\"font-size:18px\"><span style=\"color:#800080\">MAGINATION</span></span></p>\n                            </div>\n\n                            \n\n                        </div>\n                        <div class=\"mbr-table-cell mbr-valign-top mbr-left-padding-md-up col-md-7 image-size\" style=\"width: 50%;\">\n                            <div class=\"mbr-figure\"><img src=\"\"></div>\n                        </div>\n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating hidden-sm-down\" aria-hidden=\"true\"><a href=\"#header3-6k\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "_tags": [
@@ -1259,7 +1283,7 @@
             "overlay": true,
             "overlayColor": "#000",
             "overlayOpacity": 0.1,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-white btn-white-outline\">DOWNLOAD FOR MAC</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-social facebook\">\n                        \n                    </a>"
           },
           "title": "",
           "title1": "Don't hesitate to contact us",
@@ -2293,22 +2317,22 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -3267,7 +3291,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-white btn-white-outline\">DOWNLOAD FOR MAC</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-social facebook\">\n                        \n                    </a>"
           },
           "title": "DROP A LINE",
           "media1": {
@@ -3337,6 +3361,345 @@
             "overlayColor": "#ffffff"
           },
           "text": "Copyright (c) 2017 UMAGINE ENGINEERING LTD."
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Web Site Builder Title",
+        "meta_descr": "Web Site Builder Description"
+      },
+      "components": [
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMenu1",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#c1c1c1",
+            "socialButtons": "4",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "media1": {
+            "iconFont": {
+              "class": "fa",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#7c706b"
+            }
+          },
+          "phone": "(852)2180 7321",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "mail",
+              "family": "linecons",
+              "active": true,
+              "link": "info@umagine.com",
+              "size": 0,
+              "color": "#7c706b",
+              "newWindow": false
+            }
+          },
+          "email": "info@umagine.com",
+          "media3": {
+            "iconFont": {
+              "class": "",
+              "linkInNewWindow": false,
+              "name": "facebook",
+              "family": "socicon",
+              "active": true,
+              "link": "https://www.facebook.com",
+              "size": 0,
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "",
+              "linkInNewWindow": false,
+              "name": "googleplus",
+              "family": "socicon",
+              "active": true,
+              "link": "https://google.com",
+              "size": 0,
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "",
+              "linkInNewWindow": false,
+              "name": "phone-square",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "https://whatsapp.com",
+              "size": 0,
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "class": "",
+              "linkInNewWindow": false,
+              "name": "youtube",
+              "family": "socicon",
+              "active": true,
+              "link": "https://www.youture.com",
+              "size": 0,
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "media7": {
+            "iconFont": {
+              "active": true,
+              "class": "",
+              "name": "pinterest",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "socicon"
+            }
+          },
+          "media8": {
+            "iconFont": {
+              "active": true,
+              "class": "",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "socicon"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-143x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "www.umagine.hk",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-4t\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-6k\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-48\">PROTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ufarm.html\">EL PARAISO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm3-6u\" aria-expanded=\"true\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_customHTML": "<section class=\"extMenu1\">\n    <nav class=\"navbar navbar-dropdown bg-color transparent navbar-fixed-top\">\n        <div class=\"container-fluid\">\n            <div class=\"mbr-table top-menu\">\n                <div class=\"contacts\">\n                    <div class=\"phone\">\n                        <span class=\"icon\"><a href=\"https://mobirise.com\" class=\"fa fa-phone\" style=\"color: rgb(124, 112, 107);\"></a></span><span class=\"innerPhone mbr-editable-content\" code-editable-id=\"411\">(852)2180 7321</span>\n                    </div>\n                    <div class=\"mail\">\n                        <span class=\"icon\"><a href=\"info@umagine.com\" class=\"li_mail mbr-iconfont\" style=\"color: rgb(124, 112, 107);\"></a></span><span class=\"innerEmail mbr-editable-content\" code-editable-id=\"412\">info@umagine.com</span>\n                    </div>\n                </div>\n                <div class=\"social-block\">\n                    <span class=\"icon\" style=\"display: inline-block;\"><a href=\"https://www.facebook.com\" class=\"socicon socicon-facebook\" style=\"color: rgb(255, 255, 255);\"></a></span>\n                    <span class=\"icon\" style=\"display: inline-block;\"><a href=\"https://google.com\" class=\"socicon socicon-googleplus\" style=\"color: rgb(255, 255, 255);\"></a></span>\n                    <span class=\"icon\" style=\"display: inline-block;\"><a href=\"https://whatsapp.com\" class=\"fa fa-phone-square\" style=\"color: rgb(255, 255, 255);\"></a></span>\n                    <span class=\"icon\" style=\"display: inline-block;\"><a href=\"https://www.youture.com\" class=\"socicon socicon-youtube\" style=\"color: rgb(255, 255, 255);\"></a></span>\n                    \n                    \n                </div>\n            </div>\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"www.umagine.hk\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/logo-143x128.png\" alt=\"Mobirise\"></a>\n                        <a class=\"navbar-caption text-black\" href=\"https://mobirise.com\"><p><strong><span style=\"font-size:20px\">你</span><span style=\"font-size:16px\">想工程 </span><span style=\"font-size:20px\">U</span><span style=\"font-size:16px\">MAGINE</span></strong></p>\n</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#msg-box8-4t\" aria-expanded=\"false\" code-editable-id=\"413\"><p><strong><span style=\"font-size:20px\">A</span><span style=\"font-size:16px\">BOUT</span></strong></p></a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#extFeatures7-4j\" aria-expanded=\"false\" code-editable-id=\"414\"><p><strong><span style=\"font-size:20px\">S</span><span style=\"font-size:16px\">ERVICES</span></strong></p></a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#gallery4-48\" aria-expanded=\"false\" code-editable-id=\"415\"><p><span style=\"font-size:20px\"><strong>P</strong></span><span style=\"font-size:16px\"><strong>ROTFOLIO</strong></span></p>\n</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"ufarm.html\" aria-expanded=\"false\" code-editable-id=\"416\"><p><strong><span style=\"font-size:20px\">EL P</span><span style=\"font-size:16px\">ARAISO</span></strong></p></a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#extForm3-4b\" aria-expanded=\"false\" code-editable-id=\"417\"><p><span style=\"font-size:20px\"><strong>C</strong></span><span style=\"font-size:16px\"><strong>ONTACT</strong></span></p></a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n                </div>\n            </div>\n        </div>\n    </nav>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".hide-buttons .nav-btn {\n\tdisplay: none !important;\n}\n.navbar-caption {\n\tcolor: #ffffff;\n\tfont-size: 15px;\n}\n.navbar-toggler {\n\tcolor: #000000;\n}\n.close-icon::before, .close-icon::after {\n\tbackground-color: #000000;\n}\n.link, .dropdown-item {\n\tcolor: #000000;\n}\n.link {\n\tfont-size: 0.95rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n\tfont-size: 1.029rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n\tcolor: #9c89ce;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n\tbackground: #a8a8a8;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n\tbackground: #b9b9b9!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n\tbackground: #c1c1c1;\n}\n.bg-color.transparent .link {\n\tcolor: #000000;\n\ttransition: none;\n}\n.bg-color.transparent.opened .link {\n\ttransition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n\tcolor: #9c89ce;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n\tcolor: #9c89ce!important;\n}\n.innerEmail:hover, .innerPhone:hover {\n\tcolor: #9c89ce;\n}\nSPAN {\n\tcolor: #000000;\n\tfont-size: 17px;\n}\n",
+          "_customTemplate": true,
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#a8a8a8"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#b9b9b9!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#c1c1c1"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#9c89ce!important"
+            },
+            ".innerEmail:hover, .innerPhone:hover": {
+              "color": "@primaryColor"
+            },
+            "SPAN": {
+              "color": "#020203"
+            }
+          },
+          "_anchor": "extMenu1-79"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-7a",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/backgrounda-2.gif",
+            "bgColor": "#323232",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "1",
+            "overlayColor": "#ffffff"
+          },
+          "text": "Copyright (c) 2017 UMAGINE ENGINEERING LTD."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-7b",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH IMAGE",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/landscape.jpg);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(0, 0, 0);\">\n    </div>\n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div class=\"mbr-table-md-up\">\n                        \n                        \n                        \n\n                        <div class=\"mbr-table-cell col-md-5 content-size text-xs-center text-md-right\">\n\n                            <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"362\">INTRO WITH IMAGE</h3>\n\n                            <div class=\"mbr-section-text\">\n                                <p class=\"mbr-editable-content\" code-editable-id=\"363\">Full screen intro with parallax image background and color overlay and a picture on right.</p>\n                            </div>\n\n                            <div class=\"mbr-section-btn\"><a class=\"btn btn-primary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"364\">MORE</a></div>\n\n                        </div>\n                        <div class=\"mbr-table-cell mbr-valign-top mbr-left-padding-md-up col-md-7 image-size\" style=\"width: 50%;\">\n                            <div class=\"mbr-figure\"><img src=\"@THEME_PATH@/components/_images/gallery/coworkers.jpg\"></div>\n                        </div>\n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n    \n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-7d",
+          "_params": {
+            "imageSize": 50,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH IMAGE",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header2\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/landscape.jpg);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(0, 0, 0);\">\n    </div>\n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div class=\"mbr-table-md-up\">\n                        \n                        \n                        \n\n                        <div class=\"mbr-table-cell col-md-5 content-size text-xs-center text-md-right\">\n\n                            <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"374\">INTRO WITH IMAGE</h3>\n\n                            <div class=\"mbr-section-text\">\n                                <p class=\"mbr-editable-content\" code-editable-id=\"375\">Full screen intro with parallax image background and color overlay and a picture on right.</p>\n                            </div>\n\n                            <div class=\"mbr-section-btn\"><a class=\"btn btn-primary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"376\">MORE</a></div>\n\n                        </div>\n                        <div class=\"mbr-table-cell mbr-valign-top mbr-left-padding-md-up col-md-7 image-size\" style=\"width: 50%;\">\n                            <div class=\"mbr-figure\"><img src=\"@THEME_PATH@/components/_images/gallery/coworkers.jpg\"></div>\n                        </div>\n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating hidden-sm-down\" aria-hidden=\"true\"><a href=\"#next\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         }
       ]
     }
