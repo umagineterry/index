@@ -1,8 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
@@ -747,78 +744,45 @@ h6,
 #extMenu1-6z SPAN {
   color: #020203;
 }
-#header3-6k .mbr-section-title,
-#header3-6k .mbr-section-subtitle {
-  text-align: center;
-}
-#extFeatures7-4j {
-  
+#features1-7k {
   
   
   
 }
-#extFeatures7-4j .mbr-section-title {
-  text-align: center;
-  color: #232323;
-  font-family: 'Source Sans Pro', sans-serif;
+#features1-7k .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #fcfafa;
 }
-#extFeatures7-4j .mbr-section-subtitle {
-  font-family: 'Noto Sans', sans-serif;
+#features1-7k .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #dcd3d3;
 }
-#extFeatures7-4j .mbr-section-title SPAN {
-  font-family: 'Noto Sans', sans-serif;
-}
-#extFeatures7-4j H5 {
+#features1-7k .mbr-cards-col:nth-child(odd) .card-title {
+  color: #000000;
+  font-size: 22px;
   font-family: 'Open Sans', sans-serif;
 }
-#extFeatures7-4j H4 {
-  font-size: 19px;
+#features1-7k .mbr-cards-col:nth-child(odd) .card-text {
+  color: #000000;
+  text-align: left;
+  font-size: 12px;
 }
-#extFeatures13-6f {
-  
+#features1-7k .mbr-cards-col:nth-child(odd) .card-title SPAN {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
 }
-#extFeatures13-6f .etl-icon {
-  color: #666666;
+#features1-7k .mbr-cards-col:nth-child(even) .card-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
 }
-#extFeatures13-6f .etl-icon {
-  color: #666666;
+#features1-7k .mbr-cards-col:nth-child(even) .card-text {
+  text-align: left;
+  font-size: 12px;
 }
-#extFeatures13-6f .mbr-section-title {
-  font-size: 20px;
+#extFeatures8-7x .feature-title,
+#extFeatures8-7x .description {
+  color: #232323;
 }
-#msg-box8-4t .mbr-section-title,
-#msg-box8-4t p {
-  color: #fff;
-}
-#msg-box8-4t .mbr-section-title {
-  color: #a38f84;
-}
-#extFeatures4-4m .mbr-iconfont-features4 {
-  color: undefined !important;
-}
-#extFeatures4-4m .wraper {
-  border-color: undefined !important;
-}
-#extFeatures4-4m .mbr-iconfont-features4 {
-  color: undefined !important;
-}
-#extFeatures4-4m .wraper {
-  border-color: undefined !important;
-}
-#msg-box8-6o .mbr-section-title,
-#msg-box8-6o p {
-  color: #fff;
-}
-#msg-box8-6o .mbr-section-title,
-#msg-box8-6o p {
-  color: #a38f84;
-}
-#msg-box8-6o .mbr-section-title {
-  color: #a38f84;
-}
-#header3-6w .mbr-section-title,
-#header3-6w .mbr-section-subtitle {
-  text-align: center;
+#extFeatures8-7x .feature-subtitle {
+  color: #8c8c8c;
 }
 
 
