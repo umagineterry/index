@@ -531,6 +531,26 @@
                 "thumb": "@PROJECT_PATH@/assets/images/imag6552a-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/imag6552a-2000x1500.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "OTHER",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0754a-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0754a-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "GRP",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/imag5666a-2000x1499-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag5666a-2000x1499.jpg",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
@@ -1313,7 +1333,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x1500-800x600.png",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x15004.png",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x15006.png",
                 "caption": "Type caption here",
                 "active": false
               },
