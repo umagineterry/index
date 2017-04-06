@@ -698,7 +698,7 @@ h6,
 }
 #extMenu1-6z .dropdown-item,
 #extMenu1-6z .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.8rem;
 }
 #extMenu1-6z .link:hover,
 #extMenu1-6z .dropdown-item:hover,
@@ -744,36 +744,36 @@ h6,
 #extMenu1-6z SPAN {
   color: #020203;
 }
-#features1-7k {
+#features1-81 {
   
   
   
 }
-#features1-7k .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #fcfafa;
-}
-#features1-7k .striped .mbr-cards-col:nth-child(2n+1) {
+#features1-81 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #dcd3d3;
 }
-#features1-7k .mbr-cards-col:nth-child(odd) .card-title {
-  color: #000000;
+#features1-81 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #20083F;
+}
+#features1-81 .mbr-cards-col:nth-child(odd) .card-title {
+  color: #FAF7FF;
   font-size: 22px;
   font-family: 'Open Sans', sans-serif;
 }
-#features1-7k .mbr-cards-col:nth-child(odd) .card-text {
+#features1-81 .mbr-cards-col:nth-child(odd) .card-text {
   color: #000000;
   text-align: left;
   font-size: 12px;
 }
-#features1-7k .mbr-cards-col:nth-child(odd) .card-title SPAN {
+#features1-81 .mbr-cards-col:nth-child(odd) .card-title SPAN {
   font-family: 'Open Sans', sans-serif;
   font-size: 24px;
 }
-#features1-7k .mbr-cards-col:nth-child(even) .card-title {
+#features1-81 .mbr-cards-col:nth-child(even) .card-title {
   font-family: 'Open Sans', sans-serif;
   font-size: 24px;
 }
-#features1-7k .mbr-cards-col:nth-child(even) .card-text {
+#features1-81 .mbr-cards-col:nth-child(even) .card-text {
   text-align: left;
   font-size: 12px;
 }
@@ -783,6 +783,18 @@ h6,
 }
 #extFeatures8-7x .feature-subtitle {
   color: #8c8c8c;
+}
+#extForm3-7o H2 {
+  color: #ffffff;
+}
+#extForm3-7o .intro-box h5 {
+  color: #ffffff;
+}
+#extForm3-7o .intro-box h4 {
+  color: #ffffff;
+}
+#extForm3-7o P {
+  color: #ffffff;
 }
 
 
