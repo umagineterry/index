@@ -2804,7 +2804,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coffee-apple-iphone-desk88.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coffee-apple-iphone-desk108.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -2859,7 +2859,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/person-apple-laptop-notebook89.jpg",
+              "src": "@PROJECT_PATH@/assets/images/person-apple-laptop-notebook109.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -2914,7 +2914,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/macbook-apple-imac-computer90.jpg",
+              "src": "@PROJECT_PATH@/assets/images/macbook-apple-imac-computer110.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -3353,7 +3353,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x1500-800x600-1.png",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x150091.png",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x1500111.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3430,7 +3430,7 @@
             ],
             "spacing": "1",
             "showText": false,
-            "filter": true,
+            "filter": false,
             "bgColor": "fff",
             "filterBgColor": false,
             "fullWidth": false,
@@ -3968,7 +3968,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x1500-800x600.png",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x150092.png",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x1500112.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4718,7 +4718,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coffee-apple-iphone-desk88.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coffee-apple-iphone-desk108.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -4773,7 +4773,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/person-apple-laptop-notebook89.jpg",
+              "src": "@PROJECT_PATH@/assets/images/person-apple-laptop-notebook109.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -4828,7 +4828,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/macbook-apple-imac-computer90.jpg",
+              "src": "@PROJECT_PATH@/assets/images/macbook-apple-imac-computer110.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -5267,7 +5267,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x1500-800x600-1.png",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x150091.png",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x1500111.png",
                 "caption": "Type caption here",
                 "active": false
               },
