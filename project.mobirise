@@ -2096,7 +2096,7 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/apple-imac-ipad-workplace35.jpg",
+              "src": "@PROJECT_PATH@/assets/images/apple-imac-ipad-workplace40.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -2151,7 +2151,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coffee-apple-iphone-desk36.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coffee-apple-iphone-desk41.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -2206,7 +2206,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/person-apple-laptop-notebook37.jpg",
+              "src": "@PROJECT_PATH@/assets/images/person-apple-laptop-notebook42.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -3442,7 +3442,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x1500-800x600.png",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x150038.png",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x150043.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4116,7 +4116,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x150039.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2-2000x1500.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4124,7 +4124,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.2",
+            "overlayOpacity": "0.1",
             "overlayColor": "#ffffff",
             "showTitle": true,
             "showCaption": true
