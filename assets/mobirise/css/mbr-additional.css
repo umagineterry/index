@@ -1025,6 +1025,39 @@ h6,
 #footer1-2 P {
   color: #000000;
 }
+#features1-ae {
+  
+  
+  
+}
+#features1-ae .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #dcd3d3;
+}
+#features1-ae .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #20083F;
+}
+#features1-ae .mbr-cards-col:nth-child(odd) .card-title {
+  color: #FAF7FF;
+  font-size: 22px;
+  font-family: 'Open Sans', sans-serif;
+}
+#features1-ae .mbr-cards-col:nth-child(odd) .card-text {
+  color: #000000;
+  text-align: left;
+  font-size: 12px;
+}
+#features1-ae .mbr-cards-col:nth-child(odd) .card-title SPAN {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+}
+#features1-ae .mbr-cards-col:nth-child(even) .card-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+}
+#features1-ae .mbr-cards-col:nth-child(even) .card-text {
+  text-align: left;
+  font-size: 12px;
+}
 #features1-8h .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ffffff;
 }

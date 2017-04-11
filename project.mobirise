@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 374,
+    "uniqCompNum": 375,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x114.png",
     "noImageResize": "",
@@ -2804,7 +2804,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coffee-apple-iphone-desk73.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coffee-apple-iphone-desk78.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -2859,7 +2859,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/person-apple-laptop-notebook74.jpg",
+              "src": "@PROJECT_PATH@/assets/images/person-apple-laptop-notebook79.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -2914,7 +2914,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/macbook-apple-imac-computer75.jpg",
+              "src": "@PROJECT_PATH@/assets/images/macbook-apple-imac-computer80.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -3353,7 +3353,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x1500-800x600-1.png",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x150076.png",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x150081.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3625,6 +3625,132 @@
           "_anchor": "header2-87"
         },
         {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#dcd3d3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "file:///C:/Users/William/AppData/Local/Mobirise.com/Mobirise/projectData/grp-1-600x376.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "file:///C:/Users/William/AppData/Local/Mobirise.com/Mobirise/projectData/grc-600x376.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "file:///C:/Users/William/AppData/Local/Mobirise.com/Mobirise/projectData/grg-600x376.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "file:///C:/Users/William/AppData/Local/Mobirise.com/Mobirise/projectData/3d-600x376.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#dcd3d3"
+            }
+          },
+          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding\" style=\"background-color: rgb(255, 255, 255);\">\n\n        \n\n    <div class=\"mbr-cards-row row striped\">\n\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/grp-1-600x376.jpg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                       <h1 class=\"card-title mbr-editable-content\" code-editable-id=\"59\"><span style=\"font-weight: normal;\">G.R.P.</span></h1>\n                        <h1 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"60\"><p style=\"color: rgb(250,247,255);\"><span style=\"color:#FAF7FF\"><span style=\"font-size:18px\">G</span><span style=\"font-size:12px\">LASSFIBER </span><span style=\"font-size:18px\">R</span><span style=\"font-size:12px\">EINFORCED </span><span style=\"font-size:18px\">P</span><span style=\"font-size:12px\">OLYESTER</span></span></p></h1>\n<p style=\"text-align:left\"><span style=\"color:#FFFFFF\"><span style=\"font-size:14px\">I</span><span style=\"font-size:11px\">T</span><span style=\"font-size:14px\"> I</span><span style=\"font-size:11px\">S </span><span style=\"font-size:14px\">A T</span><span style=\"font-size:11px\">HERMOSETTING</span><span style=\"font-size:14px\"> C</span><span style=\"font-size:11px\">OMPOSITE </span><span style=\"font-size:14px\">M</span><span style=\"font-size:11px\">ATERIAL</span><span style=\"font-size:14px\"> M</span><span style=\"font-size:11px\">ADE</span><span style=\"font-size:14px\"> O</span><span style=\"font-size:11px\">F</span><span style=\"font-size:14px\"> P</span><span style=\"font-size:11px\">OLYESTER</span><span style=\"font-size:14px\"> R</span><span style=\"font-size:11px\">ESIN</span><span style=\"font-size:14px\"> A</span><span style=\"font-size:11px\">ND</span><span style=\"font-size:14px\"> G</span><span style=\"font-size:11px\">LASSFIBRE</span><span style=\"font-size:14px\"> I</span><span style=\"font-size:11px\">N</span><span style=\"font-size:14px\"> P</span><span style=\"font-size:12px\">ARTICULAR</span><span style=\"font-size:14px\"> MATRIX. GRP N</span><span style=\"font-size:11px\">OT</span><span style=\"font-size:14px\"> O</span><span style=\"font-size:11px\">NLY</span><span style=\"font-size:14px\"> H</span><span style=\"font-size:11px\">AS</span><span style=\"font-size:14px\"> E</span><span style=\"font-size:11px\">XCELLENT</span><span style=\"font-size:14px\"> S</span><span style=\"font-size:11px\">TRENGTH</span><span style=\"font-size:14px\">-W</span><span style=\"font-size:11px\">EIGHT</span><span style=\"font-size:14px\"> R</span><span style=\"font-size:11px\">ATIO</span><span style=\"font-size:14px\">, B</span><span style=\"font-size:11px\">UT</span><span style=\"font-size:14px\"> A</span><span style=\"font-size:11px\">LSO</span><span style=\"font-size:14px\"> C</span><span style=\"font-size:11px\">AN</span><span style=\"font-size:14px\"> B</span><span style=\"font-size:11px\">E</span><span style=\"font-size:14px\"> M</span><span style=\"font-size:11px\">OLDED</span><span style=\"font-size:14px\"> I</span><span style=\"font-size:11px\">NTO</span><span style=\"font-size:14px\"> C</span><span style=\"font-size:11px\">OMPLEX</span><span style=\"font-size:14px\"> S</span><span style=\"font-size:11px\">HAPES</span><span style=\"font-size:14px\"> A</span><span style=\"font-size:11px\">ND</span><span style=\"font-size:14px\"> D</span><span style=\"font-size:11px\">URABLE</span><span style=\"font-size:14px\"> F</span><span style=\"font-size:11px\">ORMATION</span><span style=\"font-size:14px\">.</span></span></p>\n\n                        <div class=\"card-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"61\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 10px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/grc-600x376.jpg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                         <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"62\"><span style=\"font-weight: normal;\">G.R.C.</span></h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"63\"><p><span style=\"color:#000000\"><span style=\"font-size:18px\">G</span><span style=\"font-size:12px\">LASSFIBRE </span><span style=\"font-size:18px\">R</span><span style=\"font-size:12px\">EINFORCED</span><span style=\"font-size:18px\"> C</span><span style=\"font-size:12px\">EMENT</span></span></p>\n                        \n                           </h5><h5 style=\"text-align: left;\"><span style=\"font-size:14px\"><span style=\"color:#000000\">I</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">T</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> I</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">S </span></span><span style=\"font-size:14px\"><span style=\"color:#000000\">A T</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">HERMOSETTING</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> C</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">OMPOSITE </span></span><span style=\"font-size:14px\"><span style=\"color:#000000\">M</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">ATERIAL</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> M</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">ADE</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> O</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">F</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> P</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">OLYESTER</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> R</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">ESIN</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> A</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">ND</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> G</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">LASSFIBRE</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> I</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">N</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> P</span></span><span style=\"font-size:12px\"><span style=\"color:#000000\">ARTICULAR</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> MATRIX. GRP N</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">OT</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> O</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">NLY</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> H</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">AS</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> E</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">XCELLENT</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> S</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">TRENGTH</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\">-W</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">EIGHT</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> R</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">ATIO</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\">, B</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">UT</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> A</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">LSO</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> C</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">AN</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> B</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">E</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> M</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">OLDED</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> I</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">NTO</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> C</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">OMPLEX</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> S</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">HAPES</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> A</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">ND</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> D</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">URABLE</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\"> F</span></span><span style=\"font-size:11px\"><span style=\"color:#000000\">ORMATION</span></span><span style=\"font-size:14px\"><span style=\"color:#000000\">.</span></span></h5>\n\n<h5>&nbsp;</h5>\n\n                        <div class=\"card-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"64\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/grg-600x376.jpg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                         <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"65\"><span style=\"font-weight: normal;\">G.R.G.</span></h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"66\"><p style=\"color: rgb(0, 0, 0);\"><span style=\"color:#FAF7FF\"><span style=\"font-size:18px\">G</span><span style=\"font-size:12px\">LASSFIBER </span><span style=\"font-size:18px\">R</span><span style=\"font-size:12px\">EINFORCED </span><span style=\"font-size:18px\">G</span><span style=\"font-size:12px\">YPSOM</span></span></p></h5>\n                       <p style=\"text-align:left\"><span style=\"color:#FFFFFF\"><span style=\"font-size:14px\">I</span><span style=\"font-size:11px\">T</span><span style=\"font-size:14px\"> I</span><span style=\"font-size:11px\">S </span><span style=\"font-size:14px\">A T</span><span style=\"font-size:11px\">HERMOSETTING</span><span style=\"font-size:14px\"> C</span><span style=\"font-size:11px\">OMPOSITE </span><span style=\"font-size:14px\">M</span><span style=\"font-size:11px\">ATERIAL</span><span style=\"font-size:14px\"> M</span><span style=\"font-size:11px\">ADE</span><span style=\"font-size:14px\"> O</span><span style=\"font-size:11px\">F</span><span style=\"font-size:14px\"> P</span><span style=\"font-size:11px\">OLYESTER</span><span style=\"font-size:14px\"> R</span><span style=\"font-size:11px\">ESIN</span><span style=\"font-size:14px\"> A</span><span style=\"font-size:11px\">ND</span><span style=\"font-size:14px\"> G</span><span style=\"font-size:11px\">LASSFIBRE</span><span style=\"font-size:14px\"> I</span><span style=\"font-size:11px\">N</span><span style=\"font-size:14px\"> P</span><span style=\"font-size:12px\">ARTICULAR</span><span style=\"font-size:14px\"> MATRIX. GRP N</span><span style=\"font-size:11px\">OT</span><span style=\"font-size:14px\"> O</span><span style=\"font-size:11px\">NLY</span><span style=\"font-size:14px\"> H</span><span style=\"font-size:11px\">AS</span><span style=\"font-size:14px\"> E</span><span style=\"font-size:11px\">XCELLENT</span><span style=\"font-size:14px\"> S</span><span style=\"font-size:11px\">TRENGTH</span><span style=\"font-size:14px\">-W</span><span style=\"font-size:11px\">EIGHT</span><span style=\"font-size:14px\"> R</span><span style=\"font-size:11px\">ATIO</span><span style=\"font-size:14px\">, B</span><span style=\"font-size:11px\">UT</span><span style=\"font-size:14px\"> A</span><span style=\"font-size:11px\">LSO</span><span style=\"font-size:14px\"> C</span><span style=\"font-size:11px\">AN</span><span style=\"font-size:14px\"> B</span><span style=\"font-size:11px\">E</span><span style=\"font-size:14px\"> M</span><span style=\"font-size:11px\">OLDED</span><span style=\"font-size:14px\"> I</span><span style=\"font-size:11px\">NTO</span><span style=\"font-size:14px\"> C</span><span style=\"font-size:11px\">OMPLEX</span><span style=\"font-size:14px\"> S</span><span style=\"font-size:11px\">HAPES</span><span style=\"font-size:14px\"> A</span><span style=\"font-size:11px\">ND</span><span style=\"font-size:14px\"> D</span><span style=\"font-size:11px\">URABLE</span><span style=\"font-size:14px\"> F</span><span style=\"font-size:11px\">ORMATION</span><span style=\"font-size:14px\">.</span></span><br><br></p>\n\n\n                        <div class=\"card-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"67\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/3d-600x376.jpg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                         <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"68\"><span style=\"font-weight: normal;\">Decoration</span> <span style=\"font-weight: normal;\">and Exhibits</span></h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"69\"><p><span style=\"color:#000000\"><span style=\"font-size:18px\">U</span><span style=\"font-size:12px\">MAGINE</span><span style=\"font-size:18px\"> G</span><span style=\"font-size:12px\">IVE</span><span style=\"font-size:18px\"> Y</span><span style=\"font-size:12px\">OU </span><span style=\"font-size:18px\">T</span><span style=\"font-size:12px\">HE</span><span style=\"font-size:18px\"> F</span><span style=\"font-size:12px\">REEDOM </span><span style=\"font-size:18px\">T</span><span style=\"font-size:12px\">O</span><span style=\"font-size:18px\"> D</span><span style=\"font-size:12px\">EVELOP</span></span><br></p>\n</h5>\n                        <p style=\"text-align:left\"><span style=\"font-size:14px\">F</span><span style=\"font-size:11px\">ROM</span><span style=\"font-size:14px\"> F</span><span style=\"font-size:11px\">EASIBITY</span><span style=\"font-size:14px\"> S</span><span style=\"font-size:11px\">TUDY </span><span style=\"font-size:14px\">T</span><span style=\"font-size:11px\">O</span><span style=\"font-size:14px\"> E</span><span style=\"font-size:11px\">NGINEERING</span><span style=\"font-size:14px\"> D</span><span style=\"font-size:11px\">ESIGN</span><span style=\"font-size:14px\"> T</span><span style=\"font-size:11px\">O</span><span style=\"font-size:14px\"> C</span><span style=\"font-size:11px\">ONSERCATION</span><span style=\"font-size:14px\"> O</span><span style=\"font-size:11px\">F</span><span style=\"font-size:14px\"> H</span><span style=\"font-size:11px\">ERITAGE</span><span style=\"font-size:14px\"> W</span><span style=\"font-size:11px\">ORKS</span><span style=\"font-size:14px\">.</span><br>\n<br>\n<br>\n<br>\n&nbsp;</p>\n                        <div class=\"card-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"70\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        \n        \n    </div>\n</section>",
+          "_customCSS": "@import url(undefined);\n@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\n.striped .mbr-cards-col:nth-child(2n+1) {\n\tbackground-color: #20083F;\n}\n.mbr-cards-col:nth-child(odd) .card-title {\n\tcolor: #FAF7FF;\n\tfont-size: 22px;\n\tfont-family: 'Open Sans', sans-serif;\n}\n.mbr-cards-col:nth-child(odd) .card-text {\n\tcolor: #000000;\n\ttext-align: left;\n\tfont-size: 12px;\n}\n.mbr-cards-col:nth-child(odd) .card-title SPAN {\n\tfont-family: 'Open Sans', sans-serif;\n\tfont-size: 24px;\n}\n.mbr-cards-col:nth-child(even) .card-title {\n\tfont-family: 'Open Sans', sans-serif;\n\tfont-size: 24px;\n}\n.mbr-cards-col:nth-child(even) .card-text {\n\ttext-align: left;\n\tfont-size: 12px;\n}",
+          "_customTemplate": true,
+          "_anchor": "features1-ae"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -3842,7 +3968,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x1500-800x600.png",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x150077.png",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x150082.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4592,7 +4718,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coffee-apple-iphone-desk73.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coffee-apple-iphone-desk78.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -4647,7 +4773,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/person-apple-laptop-notebook74.jpg",
+              "src": "@PROJECT_PATH@/assets/images/person-apple-laptop-notebook79.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -4702,13 +4828,13 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/macbook-apple-imac-computer75.jpg",
+              "src": "@PROJECT_PATH@/assets/images/macbook-apple-imac-computer80.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
             }
           },
-          "title4": "<a href=\"http://www.google.com\">s</a>",
+          "title4": "Decoration and Exhibits",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "media4_1": {
@@ -5141,7 +5267,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x1500-800x600-1.png",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x150076.png",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x150081.png",
                 "caption": "Type caption here",
                 "active": false
               },
