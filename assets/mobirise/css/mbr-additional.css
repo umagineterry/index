@@ -1009,9 +1009,6 @@ h6,
 
 
 
-
-
-
 #menu-9q .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1087,41 +1084,17 @@ h6,
   font-size: 30px;
   font-family: 'Yanone Kaffeesatz', sans-serif;
 }
-#header2-a8 .mbr-section-title {
-  color: #553982;
-}
-#header2-a8 .mbr-section-title SPAN {
-  color: #ffffff;
+#header2-ab .mbr-section-title {
   font-family: 'Indie Flower', cursive;
-  text-align: left;
+  text-align: right;
 }
-#header2-a8 .mbr-section-text {
-  font-size: 30px;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
-}
-#header2-a9 .mbr-section-title {
-  color: #553982;
-}
-#header2-a9 .mbr-section-title SPAN {
-  color: #ffffff;
+#header2-ac .mbr-section-title {
   font-family: 'Indie Flower', cursive;
-  text-align: left;
+  text-align: right;
 }
-#header2-a9 .mbr-section-text {
-  font-size: 30px;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
-}
-#header2-aa .mbr-section-title {
-  color: #553982;
-}
-#header2-aa .mbr-section-title SPAN {
-  color: #ffffff;
+#header2-ad .mbr-section-title {
+  text-align: right;
   font-family: 'Indie Flower', cursive;
-  text-align: left;
-}
-#header2-aa .mbr-section-text {
-  font-size: 30px;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #msg-box1-9s H3 {
   color: #000000;
@@ -1159,7 +1132,7 @@ h6,
 #content5-9u P {
   text-align: right;
   font-family: 'Roboto Condensed', sans-serif;
-  color: #cccccc;
+  color: #ffffff;
 }
 #content5-9v .mbr-section-title,
 #content5-9v p {

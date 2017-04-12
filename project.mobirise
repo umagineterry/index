@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 371,
+    "uniqCompNum": 374,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x114.png",
     "noImageResize": "",
@@ -1700,7 +1700,7 @@
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1293.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1293.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1747,28 +1747,12 @@
             "Theme"
           ],
           "_name": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#553982"
-            },
-            ".mbr-section-title SPAN": {
-              "color": "#ffffff",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "text-align": "left"
-            },
-            ".mbr-section-text": {
-              "font-size": "30px",
-              "font-family": "'Yanone Kaffeesatz', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
-            }
-          },
-          "_anchor": "header2-a8",
+          "_anchor": "header2-ab",
           "_params": {
-            "imageSize": "24",
+            "imageSize": "31",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x12938.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1293.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1776,8 +1760,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#000000",
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
             "showText": false,
@@ -1788,7 +1772,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logoleft-1400x624.png",
+              "src": "@PROJECT_PATH@/assets/images/logop-1400x1500.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1806,37 +1790,28 @@
               "size": 250
             }
           },
-          "title": "<span style=\"font-weight: normal;\">umagine.... : )&nbsp;</span>",
-          "text": "你想工程",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "umagine.... : )&nbsp;",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "text-align": "right"
+            }
+          }
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#553982"
-            },
-            ".mbr-section-title SPAN": {
-              "color": "#ffffff",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "text-align": "left"
-            },
-            ".mbr-section-text": {
-              "font-size": "30px",
-              "font-family": "'Yanone Kaffeesatz', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
-            }
-          },
-          "_anchor": "header2-a9",
+          "_anchor": "header2-ac",
           "_params": {
-            "imageSize": "40",
+            "imageSize": "37",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x12938.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1293.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1844,8 +1819,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#000000",
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
             "showText": false,
@@ -1856,7 +1831,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logoleft-1400x624.png",
+              "src": "@PROJECT_PATH@/assets/images/logorighta-1400x726.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1874,37 +1849,28 @@
               "size": 250
             }
           },
-          "title": "<span style=\"font-weight: normal;\">umagine.... : )&nbsp;</span>",
-          "text": "你想工程",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "umagine.... : )&nbsp;",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "text-align": "right"
+            }
+          }
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#553982"
-            },
-            ".mbr-section-title SPAN": {
-              "color": "#ffffff",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "text-align": "left"
-            },
-            ".mbr-section-text": {
-              "font-size": "30px",
-              "font-family": "'Yanone Kaffeesatz', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
-            }
-          },
-          "_anchor": "header2-aa",
+          "_anchor": "header2-ad",
           "_params": {
-            "imageSize": "40",
+            "imageSize": "38",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x12938.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1293.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1912,8 +1878,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#000000",
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
             "showText": false,
@@ -1924,7 +1890,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logoleft-1400x624.png",
+              "src": "@PROJECT_PATH@/assets/images/logolefta-1400x570.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1942,9 +1908,16 @@
               "size": 250
             }
           },
-          "title": "<span style=\"font-weight: normal;\">umagine.... : )&nbsp;</span>",
-          "text": "你想工程",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "umagine.... : )&nbsp;",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "right",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          }
         },
         {
           "_tags": [
@@ -2027,7 +2000,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.4",
-            "overlayColor": "#7c706b",
+            "overlayColor": "#000000",
             "showTitle": true,
             "showCaption": true
           },
@@ -2049,7 +2022,7 @@
               "text-align": "right",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "color": "#cccccc"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -2070,7 +2043,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.1",
+            "overlayOpacity": "0.2",
             "overlayColor": "#ffffff",
             "showTitle": true,
             "showCaption": true
@@ -2113,7 +2086,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#7c706b",
+            "overlayColor": "#000000",
             "showTitle": true,
             "showCaption": true
           },
@@ -2134,8 +2107,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20151227-wa0015-800x600-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20151227-wa0015-800x600.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2144,71 +2117,68 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/um-pr0a-2000x1499-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/um-pr0a-2000x1499.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/20161209-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20161209-1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/20161019-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20161019-1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/20170105-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170105-1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-07-at-11-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-07-at-11-2000x1500.png",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/20170223-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170223-1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170214-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170214-1-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2217,8 +2187,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-01-19-at-17-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-01-19-at-17-2000x150025.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2227,8 +2197,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20160614-wa0042-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20160614-wa0042-1-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2237,10 +2207,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-22-at-11-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-22-at-11-2000x1500.png",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-800x600-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-800x600.png",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": "1",
@@ -2368,7 +2348,7 @@
           "media": {
             "image": {
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/about-us-1-754x473.jpg",
+              "src": "@PROJECT_PATH@/assets/images/about-usa-754x473.png",
               "active": true,
               "link": "",
               "alt": "",
@@ -2434,19 +2414,19 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0054-2-2000x1499.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-2000x1499.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.1",
             "overlayColor": "#000",
             "inverse": true,
             "googleMap": {
-              "address": "屯門,恆威工業中心",
+              "address": "恆威工業中心",
               "placeId": "ChIJQTYOSTv7AzQRgDOyv9o4JdY",
               "state": "ok",
               "stateDetails": ""
@@ -2473,7 +2453,7 @@
           },
           "title1": "Don't hesitate to contact us",
           "subTitle1": "Ready for offers &amp; cooperation",
-          "text1": "T :  (+852) 2180 7321<br>F:   (+852) 2180 7322<br>E:   info@umagine.hk<br>ADDRESS: UNIT 410, 4/F, BLK. B1, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, N.T., H.K.<br>地址: 屯門建泰街6號恆威工業中心B1座4樓410室<br>",
+          "text1": "T :  (+852) 2180 7321<br>F :   (+852) 2180 7322<br>E:   info@umagine.hk<br>ADDRESS: UNIT 410, 4/F, BLK. B1, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, N.T., H.K.<br>地址: 屯門建泰街6號恆威工業中心B1座4樓410室<br>",
           "form": {
             "action": "info@umagine.hk",
             "alerts": {
@@ -2893,7 +2873,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x1500-800x600.png",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x15009.png",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x150026.png",
                 "caption": "Type caption here",
                 "active": false
               },
