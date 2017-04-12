@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 381,
+    "uniqCompNum": 385,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x114.png",
     "noImageResize": "",
@@ -892,10 +892,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logom-2000x1172.png",
+              "src": "@PROJECT_PATH@/assets/images/toplogob-358x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1637,7 +1637,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-9q",
+          "_anchor": "menu-91",
           "_params": {
             "bgColor": "#282828",
             "fontSize": "1.05",
@@ -1658,10 +1658,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-143x128.png",
+              "src": "@PROJECT_PATH@/assets/images/toplogob-358x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1675,228 +1675,47 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures8-9x\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-9t\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-9w\">Photo Album</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">El Paraiso Oragnic Farm</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm3-9y\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
+          "_inherit": "msg-box5",
           "_styles": {
-            ".mbr-section-title": {
-              "color": "#553982"
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
             },
-            ".mbr-section-title SPAN": {
-              "color": "#ffffff",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "text-align": "right"
-            },
-            ".mbr-section-text": {
-              "font-size": "30px",
-              "font-family": "'Yanone Kaffeesatz', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
-            }
-          },
-          "_anchor": "header2-9r",
-          "_params": {
-            "imageSize": "40",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1293.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#000000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/testb-1400x493.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\">umagine.... : )&nbsp;</span>",
-          "text": "你想工程",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "text-align": "right"
-            }
-          },
-          "_anchor": "header2-ac",
-          "_params": {
-            "imageSize": "37",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1293.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logorighta-1400x726.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "umagine.... : )&nbsp;",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
+            "H3": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             }
           },
-          "_anchor": "header2-ad",
-          "_params": {
-            "imageSize": "38",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1293.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logolefta-1400x570.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "umagine.... : )&nbsp;",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
-          "_name": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
-            }
-          },
-          "_anchor": "header2-ae",
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-al",
           "_params": {
-            "imageSize": "27",
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1293.jpg",
-            "bgColor": "#2e2e2e",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
             "showText": false,
-            "showButtons": false,
-            "showArrow": true
+            "showButtons": false
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logop-1400x1500.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1909,188 +1728,14 @@
               "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
               "link": "",
               "size": 250
             }
           },
-          "title": "umagine.... : )&nbsp;",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "title": "umagine....  : )&nbsp;",
+          "text": "This is an intro with beautiful background video and image on the left side.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
-            }
-          },
-          "_anchor": "header2-af",
-          "_params": {
-            "imageSize": "35",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1328.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logorighta-1400x726.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "umagine.... : )",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
-            }
-          },
-          "_anchor": "header2-ag",
-          "_params": {
-            "imageSize": "36",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logobbb-1400x787.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "umagine.... : )",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_anchor": "header2-ai",
-          "_params": {
-            "imageSize": "38",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-9-2000x1333.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logorighta-1400x726.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "umagine.... : )",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
-            }
-          }
         },
         {
           "_tags": [
@@ -2099,7 +1744,7 @@
           "_name": "msg-box1",
           "_styles": {
             "H3": {
-              "color": "#000000",
+              "color": "#800080",
               "font-size": "30px",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
@@ -2164,7 +1809,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-15-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2172,7 +1817,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
+            "overlayOpacity": "0.6",
             "overlayColor": "#000000",
             "showTitle": true,
             "showCaption": true
@@ -2189,13 +1834,14 @@
               "font-size": "25px",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "text-align": "right"
+              "text-align": "right",
+              "color": "#000000"
             },
             "P": {
               "text-align": "right",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -2208,7 +1854,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-16-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2216,7 +1862,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.2",
+            "overlayOpacity": "0.6",
             "overlayColor": "#ffffff",
             "showTitle": true,
             "showCaption": true
@@ -2250,7 +1896,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/imag5666a-2000x149911.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1334.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2258,7 +1904,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
             "showTitle": true,
             "showCaption": true
@@ -2280,38 +1926,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20151227-wa0015-800x600-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20151227-wa0015-800x600.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/um-pr0a-2000x1499-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/um-pr0a-2000x1499.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20161209-1-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20161209-1-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20161019-1-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20161019-1-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wp1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wp1-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2320,38 +1936,38 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20170105-1-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20170105-1-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wp1-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/wp1-2000x1500.png",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Beautiful",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-07-at-11-2000x1500-800x600.png",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-07-at-11-2000x1500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/wp2-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/wp2-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wp9-2000x1499-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wp9-2000x1499.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
               {
-                "tags": "Responsive",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20170223-1-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20170223-1-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20170214-1-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20170214-1-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wp3-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wp3-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2360,8 +1976,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-01-19-at-17-2000x1500-800x600.png",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-01-19-at-17-2000x15009.png",
+                "thumb": "@PROJECT_PATH@/assets/images/wp4-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wp4-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2370,8 +1986,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20160614-wa0042-1-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20160614-wa0042-1-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wp5-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wp5-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2380,8 +1996,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-22-at-11-2000x1500-800x600.png",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-22-at-11-2000x1500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/wp6-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wp6-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2390,14 +2006,44 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-800x600-800x600.png",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-800x600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/wp7-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wp7-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wp8-2000x1499-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wp8-2000x1499.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wp10-2000x1499-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wp10-2000x1499.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wp11-2000x1499-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wp11-2000x1499.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
             ],
             "spacing": "1",
-            "showText": true,
+            "showText": false,
             "filter": false,
             "bgColor": "#312626",
             "filterBgColor": false,
@@ -2415,11 +2061,12 @@
             },
             ".feature-subtitle": {
               "color": "#8c8c8c",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "16px"
             },
             ".mbr-section-title": {
-              "color": "#28324e",
+              "color": "#800080",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             },
@@ -2434,8 +2081,8 @@
               "color": "#313313"
             },
             ".mbr-section-subtitle": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             }
           },
           "media3": {
@@ -2469,13 +2116,13 @@
             "Extension"
           ],
           "_name": "extFeatures8",
-          "_anchor": "extFeatures8-9x",
+          "_anchor": "extFeatures8-am",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "bgImage": "file:///C:/Users/William/AppData/Local/Mobirise.com/Mobirise/projectData/jumbotron_2.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -2489,10 +2136,10 @@
             "showSubtitle": true
           },
           "title": "About Umagine",
-          "subtitle": "We Analysis Problem with our Engineering",
+          "subtitle": "Applying Engineering",
           "feature_title1": "Feasibility Study",
           "feature_subtitle1": "Creative and intelligent solutions",
-          "feature_text1": "● <i>Construction Method Reco</i>mmendation<br>● Feasibility of Construction Materials<br>",
+          "feature_text1": "● <i>Construction Methods</i><br>● Material Proposals &amp; Assessment<br>● Preliminary Design &amp; Prototypes<br>● Cost Estimation &amp; Budgets<br><br>",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -2505,8 +2152,8 @@
             }
           },
           "feature_title2": "Engineering Design",
-          "feature_subtitle2": "High resolution screens friendly",
-          "feature_text2": "● Structural Design &amp; Submission<br>● Mechanical Engineering Design",
+          "feature_subtitle2": "Code elaboration &amp; innovative design",
+          "feature_text2": "● Structural Design &amp; Analysis<br>● Mechanical Engineering Design<br>● 3D Printing / 3D Scanning<br>● Statutory Submissions<br><br>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -2521,7 +2168,7 @@
           "media": {
             "image": {
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/about-usa-754x473.png",
+              "src": "@PROJECT_PATH@/assets/images/about-usa-1-754x473.png",
               "active": true,
               "link": "",
               "alt": "",
@@ -2542,7 +2189,7 @@
           },
           "feature_title4": "Fiberglass Products&nbsp;",
           "feature_subtitle4": "GRP . GRC . GRG .",
-          "feature_text4": "● Design &amp; Build Package.<br>● Specifications to Suit Purpose.",
+          "feature_text4": "● Design &amp; Build Package<br>● Specifications to Suit Functions<br>● Decoration &amp; Features to Add Value<br>● Outdoor &amp; Indoor Use<br>",
           "media5": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -2555,8 +2202,8 @@
             }
           },
           "feature_title5": "Conservations",
-          "feature_subtitle5": "Elaborated code and trendy design",
-          "feature_text5": "● Refurbishing of Heritage Works<br>● Artifects and Museum<br>● Amusement Parks<br>● Maintanence e.<br>"
+          "feature_subtitle5": "Sustainable approaches &amp; measures",
+          "feature_text5": "● Refurbishing of Heritage Works<br>● Museum &amp; Artifects<br>● Amusement Parks<br>● Maintanence &amp; Preservations<br>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -2612,7 +2259,7 @@
             "showForm": false,
             "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE</a>"
           },
-          "title": "CONTACT US",
+          "title": "Drop us a line",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont-form1",
@@ -2624,9 +2271,9 @@
               "color": "#ffffff"
             }
           },
-          "title1": "Don't hesitate to contact us",
+          "title1": "Umagine Engineering Ltd.&nbsp;<div>你 想 工 程 有 限 公 司</div>",
           "subTitle1": "Ready for offers &amp; cooperation",
-          "text1": "T :  (+852) 2180 7321<br>F :   (+852) 2180 7322<br>E:   info@umagine.hk<br>ADDRESS: UNIT 410, 4/F, BLK. B1, HANG WAI INDUSTRIAL CENTRE, 6 KIN TAI STREET, TUEN MUN, N.T., H.K.<br>地址: 屯門建泰街6號恆威工業中心B1座4樓410室<br>",
+          "text1": "T :  (+852) 2180 7321<br>F :   (+852) 2180 7322<br>E:   info@umagine.hk<br><br>T: +852  2180 7321 <br>F: +852  2180 7322<br>E: info@umgine.hk<br><br>Address: Unit 410, 4/F, Blk. B1, Hang Wai Industrial Centre, 6 Kin Tai St., Tuen Mun, N.T., Hong Kong<br><br>香 港 新 界 屯 門 建 泰 街 6 號 恆 威 工 業 中 心 B1 座 4 樓 410 室<br>",
           "form": {
             "action": "info@umagine.hk",
             "alerts": {
@@ -2674,7 +2321,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/backgrounda-2.gif",
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": "1",
@@ -2709,7 +2356,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/backgrounda-2.gif",
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": "1",
@@ -3046,7 +2693,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x1500-800x600.png",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x150010.png",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-08-at-17-2000x15002.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3116,7 +2763,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/imag5666a-2000x1499-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/imag5666a-2000x149911.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag5666a-2000x1499.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
