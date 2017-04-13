@@ -1005,6 +1005,7 @@ h6,
 
 
 
+
 #menu-91 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1163,6 +1164,11 @@ h6,
 }
 #extForm3-9y P {
   color: #ffffff;
+}
+#social-buttons1-ap .mbr-section-title {
+  color: #800080;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
 }
 #footer1-2 P {
   color: #000000;
